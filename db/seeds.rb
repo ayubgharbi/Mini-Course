@@ -7,4 +7,4 @@ episodes = Episode.create([
     { title: '2. Adding React to an Existing Rails App.', description: 'lorem ipsum', url: 'https://www.youtube.com/embed/5F_JUvPq410', section: section },
     { title: '3. Building a Hello World App.', description: 'lorem ipsum', url: 'https://www.youtube.com/embed/5F_JUvPq410', section: section },
     { title: '4. Adding React Router Dom to your App.', description: 'lorem ipsum', url: 'https://www.youtube.com/embed/5F_JUvPq410', section: section },
-])
+]) 
