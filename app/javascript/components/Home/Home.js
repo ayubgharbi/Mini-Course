@@ -27,7 +27,7 @@ class Home extends Component {
 
         item.active = !item.active
 
-        course_modules[item.id = 1] = item
+        course_modules[item.id - 1] = item
 
         this.setState({course_modules})
     }
